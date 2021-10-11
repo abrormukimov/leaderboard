@@ -15,6 +15,7 @@
   padding: 40px;
   margin: 0 auto;
   width: 80%;
+  font-size: 50px;
 }
 
 .content-ctn,
@@ -62,4 +63,15 @@
 
 .record:nth-child(even) {
   background: rgb(234, 235, 237);
+}
+
+.input-field span,
+.r-score {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.recent-sc .refresh-btn {
+  padding: 0 5px;
+  font-size: 15px;
 }
