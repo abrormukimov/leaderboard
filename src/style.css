@@ -6,12 +6,60 @@
 
 .inner-ctn {
   display: flex;
-  width: 80%;
+  width: 70%;
   margin: 0 auto;
   justify-content: space-evenly;
 }
 
 .title {
   padding: 40px;
-  margin: 20px;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.content-ctn,
+.input-field {
+  flex: 1;
+  margin: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.recent-sc,
+.form {
+  display: flex;
+  justify-content: space-between;
+}
+
+.names {
+  border: 1px solid black;
+  margin-top: 10px;
+}
+
+.form {
+  flex-direction: column;
+}
+
+.form input {
+  width: 70%;
+  margin: 15px auto;
+  padding: 6px;
+}
+
+.form button {
+  width: 30%;
+  padding: 5px;
+  margin-left: 55%;
+}
+
+.input-field span {
+  text-align: center;
+}
+
+.record {
+  padding: 6px;
+}
+
+.record:nth-child(even) {
+  background: rgb(234, 235, 237);
 }
