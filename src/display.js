@@ -1,4 +1,4 @@
-import { getData } from './api-interface';
+import { getData } from './api-interface.js';
 
 const display = async () => {
   const listElement = document.querySelector('#list');
