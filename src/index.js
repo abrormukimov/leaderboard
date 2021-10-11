@@ -1,4 +1,4 @@
-import './style.css';
+import './style.scss';
 import display from './display.js';
 
 import { postData, setGameID } from './api-interface.js';
