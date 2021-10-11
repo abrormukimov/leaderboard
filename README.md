@@ -4,7 +4,9 @@
 
 > This is a leaderboard project that allows users to add their scores.
 
-## [Live Demo](https://github.com/abrormukimov)
+## Live Demo 
+
+- [Click here](https://abrormukimov.github.io/leaderboard/)
 
 ## Built With
 
